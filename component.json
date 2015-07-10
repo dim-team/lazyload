@@ -1,6 +1,6 @@
 {
    "name": "lazyload",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "description": "lazyload module",
    "main": "lazyload.js"
 }
